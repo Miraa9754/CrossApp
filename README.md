@@ -22,3 +22,19 @@
 ```bash
 dotnet build
 ```
+
+## Структура рішення
+
+```text
+CrossApp/
+├── CrossApp.sln
+├── README.md
+├── .gitignore
+└── src/
+    ├── Core/
+    │   ├── Core.csproj
+    │   └── EnvironmentInfo.cs
+    └── Cli/
+        ├── Cli.csproj
+        └── Program.cs
+```
