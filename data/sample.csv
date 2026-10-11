@@ -1,0 +1,14 @@
+id;sku;name;unit;quantity
+P-001;TECH-KB01;Клавіатура Logitech K120;шт;25
+P-002;TECH-MS02;Миша бездротова HP;шт;40
+P-003;TECH-HS03;Навушники JBL Tune 510BT;шт;18
+P-004;TECH-USB04;Флешка Kingston 64GB;шт;32
+P-005;TECH-HD05;Кабель HDMI 2м;шт;50
+P-006;TECH-WC06;Вебкамера Full HD;шт;12
+P-007;TECH-RT07;Маршрутизатор TP-Link;шт;15
+P-008;TECH-PD08;Килимок для миші;шт;60
+P-009;TECH-CH09;Зарядний пристрій USB-C;шт;22
+P-010;TECH-MN10;Підставка для монітора;шт;14
+P-011;TECH-CA11;Кабель USB-C 1м;шт
+P-012;TECH-SP12;Колонки комп'ютерні;шт;багато
+P-013;;Перехідник USB-C HDMI;шт;8
